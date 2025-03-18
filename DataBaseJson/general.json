@@ -1,0 +1,63 @@
+{
+    "ticket": {
+        "status": true,
+        "statusgermine": true,
+        "germine": {
+            "prompt": "Você é uma inteligência artificial que responderá tickets automaticamente em português, com educação e\nclareza. Responda com saudações cordiais, como 'Olá' ou 'Bom dia', e use uma linguagem respeitosa e\namigável. Se a mensagem do usuário não estiver clara, peça educadamente que ele reformule ou forneça mais\ndetalhes para ajudar melhor."
+        },
+        "definicoes": {
+            "logsstaff": "1347771992128094221",
+            "cargostaff": "1348033117327196232",
+            "categoriaticket": "1347771992128094219"
+        },
+        "funcoes": [
+            {
+                "nome": "Teste",
+                "preDescricao": "Testeeee",
+                "descricao": "Use teste",
+                "emoji": null,
+                "status": true
+            },
+            {
+                "nome": "Testee",
+                "preDescricao": "Teste",
+                "descricao": "Teste",
+                "emoji": null,
+                "status": true
+            }
+        ],
+        "tipoenviarmsgtckt": false,
+        "mensagemId": "1350609796591517788",
+        "channelId": "1347771992128094221",
+        "statusabertura": true,
+        "tipomsg": true,
+        "aparencia": {
+            "content": "Olá user Abra o ticket",
+            "banner": "",
+            "titulo": "",
+            "descricao": "",
+            "cor": "",
+            "miniatura": ""
+        },
+        "botao": {
+            "emoji": "😏",
+            "style": 3
+        },
+        "functions": {
+            "poker": true,
+            "renomear": true,
+            "adicionar_usuario": true,
+            "remover_usuario": true
+        }
+    },
+    "auto": {
+        "mp": "",
+        "sistemaMp": false
+    },
+    "semi": {
+        "sistema": true,
+        "tipo": "",
+        "chave": "",
+        "roleAprove": ""
+    }
+}
